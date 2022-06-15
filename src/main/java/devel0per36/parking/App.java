@@ -56,7 +56,7 @@ public class App {
     }
 
     /**
-     * Метод для заполнения автостоянки обхектами типа Car
+     * Метод для заполнения автостоянки объектами типа Car
      * @param parking - автостоянка
      */
     private static void fillParking(Parking parking) {

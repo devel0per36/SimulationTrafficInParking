@@ -3,7 +3,7 @@ package devel0per36.parking.action;
 import devel0per36.parking.entity.Car;
 
 /**
- * Интерфейс для описания действи1 очереди автомобилей
+ * Интерфейс для описания действий очереди автомобилей
  * @version 1.0
  */
 public interface QueueActions {
